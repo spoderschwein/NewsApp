@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    sources>
+    <string-array name="settings_pref_labels">
+        <item>@string/politics</item>
+        <item>@string/debates</item>
+        <item>@string/world</item>
+    </string-array>
+    <string-array name="settings_pref_value">
+        <item>@string/politicsKey</item>
+        <item>@string/debatesKey</item>
+        <item>@string/worldKey</item>
+    </string-array>
+</resources>

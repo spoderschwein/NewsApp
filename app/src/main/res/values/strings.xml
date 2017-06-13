@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="settings_title">News settings</string>
+
+    <string name="settings_menu_item">news app</string>
+
+    <!-- String for news prio. -->
+    <string name="settings_news_prio_label" translatable="false">Search</string>
+    <string name="settings_news_prio_key" translatable="false">search</string>
+    <string name="settings_news_prio_default" translatable="false">world</string>
+
+    <string name="emptyView">No news found!</string>
+    <string name="noConnection">no internet connection</string>
+
+    <!-- Array values -->
+    <string name="politics">Politics</string>
+    <string name="debates">Debates</string>
+    <string name="world">World</string>
+
+    <!-- Array keys -->
+    <string name="politicsKey">politics</string>
+    <string name="debatesKey">debates</string>
+    <string name="worldKey">world</string>
+
+
+</resources>

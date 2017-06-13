@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+    <ListPreference
+        android:defaultValue="@string/settings_news_prio_default"
+        android:entries="@array/settings_pref_labels"
+        android:entryValues="@array/settings_pref_value"
+        android:key="@string/settings_news_prio_key"
+        android:title="@string/settings_news_prio_label" />
+</PreferenceScreen>
